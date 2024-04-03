@@ -29,7 +29,7 @@ Feel free to drop by, leave comments or suggestions. Let's make the web world br
 
 ## My Projects
 :pushpin: [Landing for Raydex LLC](https://raydexkz.com/),  [GITHUB](https://github.com/Irina0313/raydex) (this is a temporary landing page, a catalogue site under development) - JavaScript, HTML5, CSS     
-:pushpin: [React-app](https://rs.school/js/),  [GITHUB](https://github.com/Irina0313/react-app) – React, React Router, Redux, Context API, RTK Query, TS, Vite, ESLint, Prettier, Husky, Next.js, SSR     
+:pushpin: [React-app],  [GITHUB](https://github.com/Irina0313/react-app) – React, React Router, Redux, Context API, RTK Query, TS, Vite, ESLint, Prettier, Husky, Next.js, SSR     
 :pushpin: [Shelter](https://rolling-scopes-school.github.io/irina0313-JSFE2023Q1/shelter/),  [GITHUB](https://github.com/Irina0313/RSS-JS-course-repo/pull/6) – JavaScript, HTML5, PixelPerfect, Figma, SCSS     
 :pushpin: eCommerce-Application (group project) [GITHUB](https://github.com/Irina0313/eCommerce-Application)  – Commercetools, React, Redux, TS, ESLint, Prettier, Material UI, Jest, React Hook Form, Jira     
 :pushpin: Async Race [GITHUB](https://github.com/Irina0313/RSS-JS-course-repo/pull/6)  – TypeScript, HTML5, SCSS, Webpack, ESLint     
